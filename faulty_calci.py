@@ -1,5 +1,5 @@
 #design a faulty calculator for the below problems
-#45*3=555, 56+9=77, 56/6 =4
+# 45*3=555, 56+9=77, 56/6 =4
 
 x = int(input('Enter 1st number : '))
 y = int(input('Enter 2nd number : '))
@@ -20,5 +20,6 @@ elif z == '+':
     print('your ans is :', x + y)
 else:
     print('oops! you have entered wrong no.')
+    
 
 
